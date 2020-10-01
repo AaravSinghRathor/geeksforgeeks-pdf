@@ -1,4 +1,4 @@
 geeksforgeeks-pdf
 =================
 
-This Python script aimed to download all Amazon Interview Experience from GeeksforGeeks website. You can modify this script to download as per your need.
+This Python script is created with an objective to download all Amazon Interview Experience Questions from GeeksforGeeks website. You can modify this script to download as per your need.
